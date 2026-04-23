@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260423183831R7459G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604231838318RUPBI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SALUD EN ACCIÓN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¡Conocemos los hábitos saludables!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isabel María Álvarez Ruiz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta SdA vamos a conocer y aprender los hábitos de vida saludables vinculados con los niños/as de esta edad. Aprenderemos con la ayuda de las TIC fomentando de esta forma un aprendizaje con participación activa, motivación e igualdad de oportunidades. ¡Nos adentramos en el mundo de la salud interactiva!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776961664547</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mobp3fgi-0rp3k1u38</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgi-0rp3k1u38</odePageId>
+      <odeBlockId>block-1776961787655-bmrf3cn3i</odeBlockId>
+      <blockName>¿Estáis preparados?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgi-0rp3k1u38</odePageId>
+          <odeBlockId>block-1776961787655-bmrf3cn3i</odeBlockId>
+          <odeIdeviceId>idevice-1776961787654-215m6dphn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/unnamed 2.png" title="COMENZAMOS LA AVENTURA" width="1536" height="858" alt="HÁBITOS SALUDABLES CON TIC" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776961787654-215m6dphn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/unnamed 2.png\" title=\"COMENZAMOS LA AVENTURA\" width=\"1536\" height=\"858\" alt=\"HÁBITOS SALUDABLES CON TIC\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgj-lbnspkcfz</odePageId>
+  <odeParentPageId>page-mobp3fgi-0rp3k1u38</odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgj-lbnspkcfz</odePageId>
+      <odeBlockId>20260420185043CPJYGL</odeBlockId>
+      <blockName>¡Nos adentramos en nuestro Proyecto! De una forma visual vemos en que consiste SALUD EN ACCIÓN, podemos observar el centro de interés, el nivel al que va dirigido, la temporalización, las materias implicadas, el idioma y la descripción general, sin olvidarnos del uso de las TIC y la actitud docente. ¿Estáis preparados?</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgj-lbnspkcfz</odePageId>
+          <odeBlockId>20260420185043CPJYGL</odeBlockId>
+          <odeIdeviceId>20260416202103065IQG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src=" https://www.canva.com/design/DAHE49HRFus/cA6p-Bvb2LQdlLpV-iIm4g/view?embed " allowfullscreen="allowfullscreen" allow="fullscreen"></iframe></div>
+<p><a href="https:// www.canva.com /design/DAHE49HRFus/cA6p-Bvb2LQdlLpV-iIm4g/view?utm_content=DAHE49HRFus&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SALUD EN ACCIÓN</a> de Isabel María Álvarez Ruiz</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260416202103065IQG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\" https://www.canva.com/design/DAHE49HRFus/cA6p-Bvb2LQdlLpV-iIm4g/view?embed \" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\"></iframe></div>\n<p><a href=\"https:// www.canva.com /design/DAHE49HRFus/cA6p-Bvb2LQdlLpV-iIm4g/view?utm_content=DAHE49HRFus&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SALUD EN ACCIÓN</a> de Isabel María Álvarez Ruiz</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgm-3p38gyy8g</odePageId>
+  <odeParentPageId>page-mobp3fgj-lbnspkcfz</odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgm-3p38gyy8g</odePageId>
+      <odeBlockId>20260420185043KYKGFB</odeBlockId>
+      <blockName>La importancia de la protección de datos. Podemos observar la guía para el alumnado sobre su seguridad y derechos digitales así como las herramientas que uso como docente día a día.</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgm-3p38gyy8g</odePageId>
+          <odeBlockId>20260420185043KYKGFB</odeBlockId>
+          <odeIdeviceId>2026042018292509911G</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHFCbNfq_I/QC7XL8-TVwK_s2zodu_zDw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHFCbNfq_I/QC7XL8-TVwK_s2zodu_zDw/view?utm_content=DAHFCbNfq_I&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Infografía Publicidad en Redes Sociales Moderno Morado</a> de Isabel María Álvarez Ruiz</p>
+<p></p>
+<p>En el siguiente <a href="https://www.symbaloo.com/shared/AAAABm3aB7oAA42ADtE4Cw==" id="link_0" target="_blank" title="" rel="noopener">enlace</a> podemos observar las herramientas que uso día a día como docente.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026042018292509911G","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHFCbNfq_I/QC7XL8-TVwK_s2zodu_zDw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHFCbNfq_I/QC7XL8-TVwK_s2zodu_zDw/view?utm_content=DAHFCbNfq_I&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Infografía Publicidad en Redes Sociales Moderno Morado</a> de Isabel María Álvarez Ruiz</p>\n<p></p>\n<p>En el siguiente <a href=\"https://www.symbaloo.com/shared/AAAABm3aB7oAA42ADtE4Cw==\" id=\"link_0\" target=\"_blank\" title=\"\" rel=\"noopener\">enlace</a> podemos observar las herramientas que uso día a día como docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgm-tjs25683h</odePageId>
+  <odeParentPageId>page-mobp3fgm-3p38gyy8g</odeParentPageId>
+  <pageName>RECURSOS MÁGICOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS MÁGICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS MÁGICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgm-tjs25683h</odePageId>
+      <odeBlockId>20260420185043ZYGAOL</odeBlockId>
+      <blockName>¡Una parte muy divertida! En este Padlet podéis encontrar recursos, videos y juegos interactivos para seguir aprendiendo.</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgm-tjs25683h</odePageId>
+          <odeBlockId>20260420185043ZYGAOL</odeBlockId>
+          <odeIdeviceId>20260420195252427B18</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/cv801y4w9a0luiwz" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420195252427B18","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/cv801y4w9a0luiwz\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgn-yozm4zi0y</odePageId>
+  <odeParentPageId>page-mobp3fgm-tjs25683h</odeParentPageId>
+  <pageName>CON UNA SOLA VISTA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CON UNA SOLA VISTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CON UNA SOLA VISTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgn-yozm4zi0y</odePageId>
+      <odeBlockId>20260420185043CPPHOI</odeBlockId>
+      <blockName>En este panel con una sola vista podéis conocer las sesiones de nuestro proyecto así como el nombre de la tarea, en qué consiste la misma, las herramientas que vamos a utilizar, el agrupamiento, la duración y el espacio donde la realizamos.</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgn-yozm4zi0y</odePageId>
+          <odeBlockId>20260420185043CPPHOI</odeBlockId>
+          <odeIdeviceId>20260420195714365DJ9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGudxrCNQ/tI_1SGxT8s9ig3KJWGH1iQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHGudxrCNQ/tI_1SGxT8s9ig3KJWGH1iQ/view?utm_content=DAHGudxrCNQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Colorful and White Illustrated Business Timeline Presentation</a> de Isabel María Álvarez Ruiz</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420195714365DJ9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGudxrCNQ/tI_1SGxT8s9ig3KJWGH1iQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHGudxrCNQ/tI_1SGxT8s9ig3KJWGH1iQ/view?utm_content=DAHGudxrCNQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Colorful and White Illustrated Business Timeline Presentation</a> de Isabel María Álvarez Ruiz</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgo-4j2od7vy4</odePageId>
+  <odeParentPageId>page-mobp3fgn-yozm4zi0y</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgo-4j2od7vy4</odePageId>
+      <odeBlockId>20260420185043WJVTQE</odeBlockId>
+      <blockName>Asociamos las diferentes tareas dividas en sesiones con los criterios de evaluación correspondientes. Además, podemos observar que se especifican los agrupamientos, el tiempo aproximado y la herramienta que se le sugerirá al alumnado.</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgo-4j2od7vy4</odePageId>
+          <odeBlockId>20260420185043WJVTQE</odeBlockId>
+          <odeIdeviceId>20260420201054479YTE</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><iframe width="906" height="457" src="https://docs.google.com/document/d/e/2PACX-1vTw1F454tB11emHDe7x4D868uFjHKF5JzlbLOcgGhU8x8SIj7ZGILUQ1I3ZiKYfqg/pub?embedded=true"></iframe></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420201054479YTE","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"906\" height=\"457\" src=\"https://docs.google.com/document/d/e/2PACX-1vTw1F454tB11emHDe7x4D868uFjHKF5JzlbLOcgGhU8x8SIj7ZGILUQ1I3ZiKYfqg/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgo-bnyxp6lxd</odePageId>
+  <odeParentPageId>page-mobp3fgo-4j2od7vy4</odeParentPageId>
+  <pageName>¿CÓMO TE EVALUO?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO TE EVALUO?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO TE EVALUO?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgo-bnyxp6lxd</odePageId>
+      <odeBlockId>20260420185043LXTFZS</odeBlockId>
+      <blockName>Podemos observar las técnicas e instrumentos de evaluación que se van a utilizar en esta SdA, así como la autoevaluación que vamos a llevar a con ejemplos muy visuales. ¡Vamos a ello!</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgo-bnyxp6lxd</odePageId>
+          <odeBlockId>20260420185043LXTFZS</odeBlockId>
+          <odeIdeviceId>202604202018578972PG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><iframe width="908" height="454" src="https://docs.google.com/document/d/e/2PACX-1vRPpaW-bmgTwBP9X1tFZ3D7KerQe04UYnc2urVsALErdVFcLRkpUDyPsVBHKN6siA/pub?embedded=true"></iframe></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604202018578972PG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"908\" height=\"454\" src=\"https://docs.google.com/document/d/e/2PACX-1vRPpaW-bmgTwBP9X1tFZ3D7KerQe04UYnc2urVsALErdVFcLRkpUDyPsVBHKN6siA/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgo-ajnx191m6</odePageId>
+  <odeParentPageId>page-mobp3fgo-bnyxp6lxd</odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgo-ajnx191m6</odePageId>
+      <odeBlockId>20260420185043QXIXDR</odeBlockId>
+      <blockName>¡Hemos llegado a la meta! De esto se trata el producto final, con ayuda del docente, vuestro interés y aprendizaje esto será un pequeño paso más. ¡Suerte!</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgo-ajnx191m6</odePageId>
+          <odeBlockId>20260420185043QXIXDR</odeBlockId>
+          <odeIdeviceId>20260420202622656B7I</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;"><span style="font-family: 'times new roman', times, serif;">¡Hola a todos y todas!</span><br><span style="font-family: 'times new roman', times, serif;">A continuación, presento la propuesta de las herramientas que utilizaría </span><span style="font-family: 'times new roman', times, serif;">para que el alumnado aprenda de la mano de la competencia digital. Para </span><span style="font-family: 'times new roman', times, serif;">la realización del <strong>producto final</strong> de la SdA centrada en los <strong>hábitos de vida </strong></span><span style="font-family: 'times new roman', times, serif;"><strong>saludable</strong> en el curso de <strong>1º de Primaria</strong> propongo <strong>Canva y Genially.&nbsp;</strong></span></p>
+<p style="text-align: justify;"><br><span style="font-family: 'times new roman', times, serif;">El <strong>principal objetivo</strong> es usar estas herramientas para la creación del </span><span style="font-family: 'times new roman', times, serif;">producto final que será un mural sobre los hábitos de vida saludable</span><br><span style="font-family: 'times new roman', times, serif;">(enfocados en niños/as de esa edad) en el que plasmarán lo aprendido. </span><span style="font-family: 'times new roman', times, serif;">Debido a su edad la creación se realizará de <strong>forma guiada</strong> y en <strong>grupos </strong></span><span style="font-family: 'times new roman', times, serif;"><strong>colaborativos</strong> (cada niño/a asume un rol, adaptado a sus intereses).&nbsp;</span></p>
+<p style="text-align: justify;"><br><span style="font-family: 'times new roman', times, serif;">Para justificar la elección me baso en que con la <strong>edad</strong> que presentan los </span><span style="font-family: 'times new roman', times, serif;">niños/as en esta epata académica aún presentan<strong> dificultades </strong>con</span><br><span style="font-family: 'times new roman', times, serif;">la <strong>competencia digital</strong> y tanto Canva como Genially son<strong> herramientas </strong></span><span style="font-family: 'times new roman', times, serif;"><strong>visuales e intuitivas</strong>. Cada una ellas presenta plantillas ya creadas en las </span><span style="font-family: 'times new roman', times, serif;">que los niños/as podrán ir añadiendo texto, imágenes, iconos, etc. Además </span><span style="font-family: 'times new roman', times, serif;">son plataformas gratuitas que no requieren de una previa instalación y te </span><span style="font-family: 'times new roman', times, serif;">permiten trabajar de forma colaborativa en tiempo real.&nbsp;</span></p>
+<p style="text-align: justify;"><br><span style="font-family: 'times new roman', times, serif;">Para mí, es imprescindible tener en cuenta la <strong>inclusión </strong>y atención al </span><span style="font-family: 'times new roman', times, serif;">alumnado que presenta algún tipo de NEAE, como es en este caso, y estas </span><span style="font-family: 'times new roman', times, serif;">herramientas facilitan su trabajo. En ellas predomina el<strong> apoyo visual </strong>(utilizar </span><span style="font-family: 'times new roman', times, serif;">imágenes, pictogramas, etc) e integración de audios entre otros muchos </span><span style="font-family: 'times new roman', times, serif;">aspectos, en este caso destaco las anteriores por las características de mi </span><span style="font-family: 'times new roman', times, serif;">alumnado. No podemos olvidar la <strong>motivación</strong> que </span><span style="font-family: 'times new roman', times, serif;">conlleva el uso de estas </span><span style="font-family: 'times new roman', times, serif;">plataformas ya que permiten captar y mantener la atención de los niños y </span><span style="font-family: 'times new roman', times, serif;">niñas.&nbsp;</span></p>
+<p style="text-align: justify;"><br><span style="font-family: 'times new roman', times, serif;">Por lo tanto, considero que la <strong>combinación de Canva y Genially</strong> permitirá </span><span style="font-family: 'times new roman', times, serif;">crea un productor final motivador y accesible donde se plasmen los </span><span style="font-family: 'times new roman', times, serif;">aprendizajes adquiridos sobre la salud.</span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420202622656B7I","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'times new roman', times, serif;\">¡Hola a todos y todas!</span><br /><span style=\"font-family: 'times new roman', times, serif;\">A continuación, presento la propuesta de las herramientas que utilizaría </span><span style=\"font-family: 'times new roman', times, serif;\">para que el alumnado aprenda de la mano de la competencia digital. Para </span><span style=\"font-family: 'times new roman', times, serif;\">la realización del <strong>producto final</strong> de la SdA centrada en los <strong>hábitos de vida </strong></span><span style=\"font-family: 'times new roman', times, serif;\"><strong>saludable</strong> en el curso de <strong>1º de Primaria</strong> propongo <strong>Canva y Genially. </strong></span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'times new roman', times, serif;\">El <strong>principal objetivo</strong> es usar estas herramientas para la creación del </span><span style=\"font-family: 'times new roman', times, serif;\">producto final que será un mural sobre los hábitos de vida saludable</span><br /><span style=\"font-family: 'times new roman', times, serif;\">(enfocados en niños/as de esa edad) en el que plasmarán lo aprendido. </span><span style=\"font-family: 'times new roman', times, serif;\">Debido a su edad la creación se realizará de <strong>forma guiada</strong> y en <strong>grupos </strong></span><span style=\"font-family: 'times new roman', times, serif;\"><strong>colaborativos</strong> (cada niño/a asume un rol, adaptado a sus intereses). </span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'times new roman', times, serif;\">Para justificar la elección me baso en que con la <strong>edad</strong> que presentan los </span><span style=\"font-family: 'times new roman', times, serif;\">niños/as en esta epata académica aún presentan<strong> dificultades </strong>con</span><br /><span style=\"font-family: 'times new roman', times, serif;\">la <strong>competencia digital</strong> y tanto Canva como Genially son<strong> herramientas </strong></span><span style=\"font-family: 'times new roman', times, serif;\"><strong>visuales e intuitivas</strong>. Cada una ellas presenta plantillas ya creadas en las </span><span style=\"font-family: 'times new roman', times, serif;\">que los niños/as podrán ir añadiendo texto, imágenes, iconos, etc. Además </span><span style=\"font-family: 'times new roman', times, serif;\">son plataformas gratuitas que no requieren de una previa instalación y te </span><span style=\"font-family: 'times new roman', times, serif;\">permiten trabajar de forma colaborativa en tiempo real. </span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'times new roman', times, serif;\">Para mí, es imprescindible tener en cuenta la <strong>inclusión </strong>y atención al </span><span style=\"font-family: 'times new roman', times, serif;\">alumnado que presenta algún tipo de NEAE, como es en este caso, y estas </span><span style=\"font-family: 'times new roman', times, serif;\">herramientas facilitan su trabajo. En ellas predomina el<strong> apoyo visual </strong>(utilizar </span><span style=\"font-family: 'times new roman', times, serif;\">imágenes, pictogramas, etc) e integración de audios entre otros muchos </span><span style=\"font-family: 'times new roman', times, serif;\">aspectos, en este caso destaco las anteriores por las características de mi </span><span style=\"font-family: 'times new roman', times, serif;\">alumnado. No podemos olvidar la <strong>motivación</strong> que </span><span style=\"font-family: 'times new roman', times, serif;\">conlleva el uso de estas </span><span style=\"font-family: 'times new roman', times, serif;\">plataformas ya que permiten captar y mantener la atención de los niños y </span><span style=\"font-family: 'times new roman', times, serif;\">niñas. </span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'times new roman', times, serif;\">Por lo tanto, considero que la <strong>combinación de Canva y Genially</strong> permitirá </span><span style=\"font-family: 'times new roman', times, serif;\">crea un productor final motivador y accesible donde se plasmen los </span><span style=\"font-family: 'times new roman', times, serif;\">aprendizajes adquiridos sobre la salud.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobp3fgp-zop1ve3v0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobp3fgp-zop1ve3v0</odePageId>
+      <odeBlockId>block-1776873824750-cmlvb62w1</odeBlockId>
+      <blockName>Este apartado se lo dedicamos a los créditos.</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobp3fgp-zop1ve3v0</odePageId>
+          <odeBlockId>block-1776873824750-cmlvb62w1</odeBlockId>
+          <odeIdeviceId>idevice-1776873824749-qdxocs2dv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Autoría: Isabel María Álvarez Ruiz</li>
+<li>Descripción: Este recurso educativo aborda la temática de la salud especialmente en relación con los hábitos de vida saludable dirigido al alumnado de 1º de Educación Primaria. Vamos a aprender con el uso de las TIC para propiciar la participación activa y la igualdad de oportunidades. </li>
+<li>Licencia de uso: Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA).</li>
+</ul>
+<p>     <img src="{{context_path}}/content/resources/mceclip0.png" width="290" height="102" /></p>
+<ul>
+<li><a href="{{context_path}}/content/resources/salud-en-accion FINAL.elpx" title="salud-en-accion FINAL.elpx">Descargar archivo editable de eXeLearning.</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776873824749-qdxocs2dv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Autoría: Isabel María Álvarez Ruiz</li>\n<li>Descripción: Este recurso educativo aborda la temática de la salud especialmente en relación con los hábitos de vida saludable dirigido al alumnado de 1º de Educación Primaria. Vamos a aprender con el uso de las TIC para propiciar la participación activa y la igualdad de oportunidades. </li>\n<li>Licencia de uso: Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA).</li>\n</ul>\n<p>     <img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"290\" height=\"102\" /></p>\n<ul>\n<li><a href=\"{{context_path}}/content/resources/salud-en-accion FINAL.elpx\" title=\"salud-en-accion FINAL.elpx\">Descargar archivo editable de eXeLearning.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
